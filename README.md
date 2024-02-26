@@ -26,13 +26,19 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 **Cascaded Models**
 
 * `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
+  
 * `Arxiv2023` LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models [[Paper]]()
+  
 * `Arxiv2023` Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2309.15818)
+  
 * `ICLR2024` Relay Diffusion: Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/abs/2309.03350)
+
 
 **End-to-End Models**
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
+
 * `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://openreview.net/pdf?id=di52zR8xgf)
+  
 * `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://openreview.net/pdf?id=tOzCcDdH9O)
 
 
