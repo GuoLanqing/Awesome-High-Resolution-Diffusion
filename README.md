@@ -27,11 +27,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 * `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
   
-* `Arxiv2023` LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models [[Paper]]()
+* `Arxiv2023` LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models [[Paper]](https://arxiv.org/abs/2309.15103) [[Code]](https://github.com/Vchitect/LaVie)
   
-* `Arxiv2023` Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2309.15818)
+* `Arxiv2023` Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2309.15818) [[Code]](https://github.com/showlab/Show-1)
   
-* `ICLR2024` Relay Diffusion: Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/abs/2309.03350)
+* `ICLR2024` Relay Diffusion: Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/abs/2309.03350) [[Code]](https://github.com/THUDM/RelayDiffusion)
 
 
 **End-to-End Model**
