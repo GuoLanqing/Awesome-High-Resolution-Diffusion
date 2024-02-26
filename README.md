@@ -23,7 +23,7 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 
 ### Training from Scratch Algorithm
 
-**Cascaded Models**
+**Cascaded Model**
 
 * `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
   
@@ -34,7 +34,7 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 * `ICLR2024` Relay Diffusion: Unifying diffusion process across resolutions for image synthesis [[Paper]](https://arxiv.org/abs/2309.03350)
 
 
-**End-to-End Models**
+**End-to-End Model**
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
 
 * `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://openreview.net/pdf?id=di52zR8xgf)
@@ -53,8 +53,8 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 
 ## Metrics
 
-* FID / KID (Fre ́chet Inception Distance)
+* FID / KID (Fre ́chet Inception Distance) [[Wiki]](https://en.wikipedia.org/wiki/Fréchet_inception_distance)
 * patch-FID (pFID) / patch-KID (pKID): 
 * sFID / sKID
-* IS (Inception Score)
+* IS (Inception Score) 
 
