@@ -54,6 +54,7 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 ### Metrics
 
 * FID / KID
-* patch-FID (pFID) / patch-KID (pKID)
-* sFID / sKID 
+* patch-FID (pFID) / patch-KID (pKID): 
+* sFID / sKID
+* IS 
 
