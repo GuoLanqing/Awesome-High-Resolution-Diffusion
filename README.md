@@ -53,8 +53,8 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 
 ## Metrics
 
-* FID / KID
+* FID / KID (Fre ́chet Inception Distance)
 * patch-FID (pFID) / patch-KID (pKID): 
 * sFID / sKID
-* IS 
+* IS (Inception Score)
 
