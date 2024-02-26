@@ -1,5 +1,5 @@
 # Awesome Diffusion Models in High-Resolution Synthesis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Collection of recent diffusion-based high-resolution image and video synthesis works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
+Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and video synthesis works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
 
 ## Papers and Codes
 
@@ -53,8 +53,8 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 
 ## Metrics
 
-* FID / KID (Fre ́chet Inception Distance) [[Wiki]](https://en.wikipedia.org/wiki/Fréchet_inception_distance)
-* patch-FID (pFID) / patch-KID (pKID): 
-* sFID / sKID
-* IS (Inception Score) 
+* FID / KID (Fre ́chet Inception Distance) [[Ref]](https://en.wikipedia.org/wiki/Fréchet_inception_distance)
+* IS (Inception Score) [[Ref]](https://proceedings.neurips.cc/paper/2016/file/8a3363abe792db2d8761d6403605aeb7-Paper.pdf)
+* patch-FID (pFID) / patch-KID (pKID): use cropped local patches [[Ref]](https://arxiv.org/abs/2204.07156)
+* sFID / sKID: use the features before the global average pooling [[Ref]](https://arxiv.org/abs/2103.03841)
 
