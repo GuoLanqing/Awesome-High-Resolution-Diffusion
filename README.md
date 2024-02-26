@@ -51,7 +51,7 @@ Collection of recent diffusion-based high-resolution image and video synthesis w
 * `Arxiv2024` Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[Paper]](https://arxiv.org/abs/2401.13627) [[Code]](https://github.com/Fanghua-Yu/SUPIR)
 
 
-### Metrics
+## Metrics
 
 * FID / KID
 * patch-FID (pFID) / patch-KID (pKID): 
