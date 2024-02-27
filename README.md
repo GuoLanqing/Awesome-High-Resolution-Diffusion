@@ -43,6 +43,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
   
 * `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://openreview.net/pdf?id=tOzCcDdH9O)
 
+* `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation
+ [[Paper]](https://arxiv.org/abs/2106.15282)
+[[Webpage]](https://cascaded-diffusion.github.io/)
+
 ### Super Resolution Algorithm
 * `Arxiv2023` StableSR: Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
   
