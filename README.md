@@ -46,6 +46,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
   
 * `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://openreview.net/pdf?id=tOzCcDdH9O)
 
+* `ICLR2024` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2308.01316)[[Code]](https://github.com/mlpc-ucsd/patch-dm?tab=readme-ov-file)
+
 
 ### Super Resolution Algorithm
 * `Arxiv2023` StableSR: Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
