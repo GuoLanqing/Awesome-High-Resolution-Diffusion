@@ -28,7 +28,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 **Cascaded Model**
 
 * `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
-  
+[[Webpage]](https://cascaded-diffusion.github.io/)
+
 * `Arxiv2023` LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models [[Paper]](https://arxiv.org/abs/2309.15103) [[Code]](https://github.com/Vchitect/LaVie)
   
 * `Arxiv2023` Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[Paper]](https://arxiv.org/abs/2309.15818) [[Code]](https://github.com/showlab/Show-1)
@@ -37,15 +38,14 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 
 **End-to-End Model**
+* `Arxiv2023` Simple diffusion: End-to-end diffusion for high resolution images [[Paper]](https://arxiv.org/abs/2301.11093)
+
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
 
 * `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://openreview.net/pdf?id=di52zR8xgf)
   
 * `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://openreview.net/pdf?id=tOzCcDdH9O)
 
-* `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation
- [[Paper]](https://arxiv.org/abs/2106.15282)
-[[Webpage]](https://cascaded-diffusion.github.io/)
 
 ### Super Resolution Algorithm
 * `Arxiv2023` StableSR: Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
