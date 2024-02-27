@@ -5,6 +5,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### Tuning-Free Algorithm
 
+* `NeurIPS 2023` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2306.08645)
+
 * `ICML2023` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[Paper]](https://arxiv.org/abs/2302.08113) [[Code]](https://github.com/omerbt/MultiDiffusion)
 
 * `ICLR2024` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.07702.pdf) [[Code]](https://yingqinghe.github.io/scalecrafter/)
