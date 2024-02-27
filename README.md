@@ -11,12 +11,12 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 * `ICLR2024` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.07702.pdf) [[Code]](https://yingqinghe.github.io/scalecrafter/)
   
-* `Arxiv2023` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models [[Paper]](https://arxiv.org/pdf/2311.17528.pdf)
+* `Arxiv2023` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models [[Paper]](https://arxiv.org/abs/2311.17528)
 
-* `Arxiv2023` DemoFusion: Democratising High-Resolution Image Generation With No $$$ [[Paper]](https://arxiv.org/pdf/2311.16973.pdf) [[Code]](https://github.com/PRIS-CV/DemoFusion)
+* `Arxiv2023` DemoFusion: Democratising High-Resolution Image Generation With No $$$ [[Paper]](https://arxiv.org/abs/2311.16973) [[Code]](https://github.com/PRIS-CV/DemoFusion) [[Webpage]](https://ruoyidu.github.io/demofusion/demofusion.html)
 
 ### Fine-Tuning Algorithm
-* `ICCV2023` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf)
+* `ICCV2023` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://arxiv.org/abs/2304.06648)
 
 * `Arxiv2023` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images [[Paper]](https://arxiv.org/abs/2308.16582)
 
@@ -27,7 +27,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 **Cascaded Model**
 
-* `JMLR2022` Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://www.jmlr.org/papers/volume23/21-0635/21-0635.pdf)
+* `JMLR2022` [CDM] Cascaded Diffusion Models for High Fidelity Image Generation [[Paper]](https://arxiv.org/abs/2106.15282)
 [[Webpage]](https://cascaded-diffusion.github.io/)
 
 * `Arxiv2023` LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models [[Paper]](https://arxiv.org/abs/2309.15103) [[Code]](https://github.com/Vchitect/LaVie)
@@ -44,17 +44,17 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
 
-* `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://openreview.net/pdf?id=di52zR8xgf)
+* `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2307.01952)[[Code]](https://github.com/Stability-AI/generative-models)
   
-* `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://openreview.net/pdf?id=tOzCcDdH9O)
+* `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://arxiv.org/abs/2310.15111)
 
 * `ICLR2024` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2308.01316)[[Code]](https://github.com/mlpc-ucsd/patch-dm?tab=readme-ov-file)
 
 
 ### Super Resolution Algorithm
-* `Arxiv2023` StableSR: Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
+* `Arxiv2023` [StableSR] Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
   
-* `Arxiv2023` PromptSR: Image Super-Resolution with Text Prompt Diffusion [[Paper]](https://arxiv.org/abs/2311.14282) [[Code]](https://github.com/zhengchen1999/PromptSR)
+* `Arxiv2023` [PromptSR] Image Super-Resolution with Text Prompt Diffusion [[Paper]](https://arxiv.org/abs/2311.14282) [[Code]](https://github.com/zhengchen1999/PromptSR)
   
 * `Arxiv2023` TIP: Text-Driven Image Processing with Semantic and Restoration Instructions [[Paper]](https://arxiv.org/abs/2312.11595)
   
