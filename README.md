@@ -40,6 +40,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 **End-to-End Model**
 * `Arxiv2023` Simple diffusion: End-to-end diffusion for high resolution images [[Paper]](https://arxiv.org/abs/2301.11093)
 
+* `Arxiv2023` On the Importance of Noise Scheduling for Diffusion Models [[Paper]](https://arxiv.org/abs/2301.10972)
+
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
 
 * `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://openreview.net/pdf?id=di52zR8xgf)
