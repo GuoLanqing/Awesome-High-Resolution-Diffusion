@@ -14,6 +14,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 * `Arxiv2023` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models [[Paper]](https://arxiv.org/abs/2311.17528)
 
 * `Arxiv2023` DemoFusion: Democratising High-Resolution Image Generation With No $$$ [[Paper]](https://arxiv.org/abs/2311.16973) [[Code]](https://github.com/PRIS-CV/DemoFusion) [[Webpage]](https://ruoyidu.github.io/demofusion/demofusion.html)
+* 
+* `CVPR2024 Oral` FreeU: Free Lunch in Diffusion U-Net [[Paper]](https://arxiv.org/pdf/2309.11497) [[Code]](https://github.com/ChenyangSi/FreeU) [[Webpage]](https://chenyangsi.top/FreeU/)
 
 ### Fine-Tuning Algorithm
 * `ICCV2023` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://arxiv.org/abs/2304.06648)
