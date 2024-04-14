@@ -48,15 +48,15 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 * `Arxiv2023` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States [[Paper]](https://arxiv.org/abs/2303.18242)
 
-* `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2307.01952)[[Code]](https://github.com/Stability-AI/generative-models)
+* `ICLR2024` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2307.01952) [[Code]](https://github.com/Stability-AI/generative-models)
   
 * `ICLR2024` Matryoshka Diffusion Models [[Paper]](https://arxiv.org/abs/2310.15111)
 
-* `ICLR2024` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2308.01316)[[Code]](https://github.com/mlpc-ucsd/patch-dm?tab=readme-ov-file)
+* `ICLR2024` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2308.01316) [[Code]](https://github.com/mlpc-ucsd/patch-dm?tab=readme-ov-file)
   
 * `Arxiv2024` FiT: Flexible Vision Transformer for Diffusion Model [[Paper]](https://arxiv.org/abs/2402.12376)[[Code]](https://github.com/whlzy/FiT)
   
-* `Arxiv2024` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers [[Paper]](https://arxiv.org/abs/2401.11605)[[Code]](https://github.com/crowsonkb/k-diffusion) [[Webpage]](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+* `Arxiv2024` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers [[Paper]](https://arxiv.org/abs/2401.11605) [[Code]](https://github.com/crowsonkb/k-diffusion) [[Webpage]](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 
 
 ### Super Resolution Algorithm
