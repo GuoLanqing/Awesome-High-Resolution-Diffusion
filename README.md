@@ -55,6 +55,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 * `ICLR2024` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2308.01316)[[Code]](https://github.com/mlpc-ucsd/patch-dm?tab=readme-ov-file)
   
 * `Arxiv2024` FiT: Flexible Vision Transformer for Diffusion Model [[Paper]](https://arxiv.org/abs/2402.12376)[[Code]](https://github.com/whlzy/FiT)
+  
+* `Arxiv2024` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers [[Paper]](https://arxiv.org/abs/2401.11605)[[Code]](https://github.com/whlzy/FiT)
 
 
 ### Super Resolution Algorithm
@@ -64,7 +66,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
   
 * `Arxiv2023` TIP: Text-Driven Image Processing with Semantic and Restoration Instructions [[Paper]](https://arxiv.org/abs/2312.11595)
   
-* `Arxiv2024` Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[Paper]](https://arxiv.org/abs/2401.13627) [[Code]](https://github.com/Fanghua-Yu/SUPIR)
+* `Arxiv2024` Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[Paper]](https://arxiv.org/abs/2401.13627) [[Code]](https://github.com/crowsonkb/k-diffusion) [[Webpage]](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 
 
 ## Metrics
