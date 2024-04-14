@@ -9,7 +9,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 * `ICML2023` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[Paper]](https://arxiv.org/abs/2302.08113) [[Code]](https://github.com/omerbt/MultiDiffusion)
 
-* `ICLR2024` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models [[Paper]](https://arxiv.org/pdf/2310.07702.pdf) [[Code]](https://yingqinghe.github.io/scalecrafter/)
+* `ICLR2024` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models [[Paper]](https://arxiv.org/abs/2310.07702) [[Code]](https://yingqinghe.github.io/scalecrafter/)
   
 * `Arxiv2023` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models [[Paper]](https://arxiv.org/abs/2311.17528)
 
