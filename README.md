@@ -4,10 +4,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 ## Papers and Codes
 
 - [📍 Image and Video Generation](#papers-and-codes)
-  - [Tuning-Free Algorithms](#tuning-free-algorithms)
-  - [Fine-Tuning Algorithms](#fine-tuning-algorithms)
-  - [Training from Scratch Algorithms](#training-from-scratch-algorithms)
-  - [Super Resolution Algorithms](#super-resolution-algorithms)
+  - [Tuning-Free Algorithms](#-tuning-free-algorithms)
+  - [Fine-Tuning Algorithms](#-fine-tuning-algorithms)
+  - [Training from Scratch Algorithms](#-training-from-scratch-algorithms)
+  - [Super Resolution Algorithms](#-super-resolution-algorithms)
   - [Datasets](#datasets)
   - [Metrics](#metrics)
 
