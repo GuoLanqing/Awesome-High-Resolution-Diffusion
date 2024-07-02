@@ -83,12 +83,35 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
   
 
-### Fine-Tuning Algorithm
-* `ICCV2023` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://arxiv.org/abs/2304.06648)
+### 🔅 Fine-Tuning Algorithm
 
-* `Arxiv2023` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images [[Paper]](https://arxiv.org/abs/2308.16582)
 
-* `Arxiv2024` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation [[Paper]](https://arxiv.org/abs/2402.10491) [[Code]](https://github.com/GuoLanqing/Self-Cascade/)
+
++ **`ECCV‘24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10491)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guolanqing.github.io/Self-Cascade/)
+[![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
++ **`ICLR‘24` PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pixart-alpha.github.io)
+[![Code](https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha.svg?style=social&label=Star)](https://github.com/PixArt-alpha/PixArt-alpha)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
+
+
++ **`ICCV‘23` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06648)
+[![Code](https://img.shields.io/github/stars/mkshing/DiffFit-pytorch.svg?style=social&label=Star)](https://github.com/mkshing/DiffFit-pytorch)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
+
++ **`AAAI‘24` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** (31 Aug 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Qingping Zheng, Yuanfan Guo, Jiankang Deng, Jianhua Han, Ying Li, Songcen Xu, Hang Xu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.16582)
+[![Code](https://img.shields.io/github/stars/ProAirVerse/Any-Size-Diffusion.svg?style=social&label=Star)](https://github.com/ProAirVerse/Any-Size-Diffusion)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
 
 
 ### Training from Scratch Algorithm
