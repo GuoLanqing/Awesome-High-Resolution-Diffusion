@@ -76,7 +76,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
   
 
-### 🔅 Fine-Tuning Algorithm
+### 🔅 Fine-Tuning Algorithms
 
 
 
