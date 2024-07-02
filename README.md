@@ -3,21 +3,66 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ## Papers and Codes
 
-### Tuning-Free Algorithm
+### 🔅 Tuning-Free Algorithm
 
-* `NeurIPS 2023` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2306.08645)
++ **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance** (24 June 2024)<details><summary>Shuwei Shi, Wenbo Li, Yuechen Zhang, et al.</summary> Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16476)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/minedreamer/main)
+[![Code](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star)](https://github.com/Shuweis/ResMaster)
 
-* `ICML2023` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[Paper]](https://arxiv.org/abs/2302.08113) [[Code]](https://github.com/omerbt/MultiDiffusion)
 
-* `ICLR2024` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models [[Paper]](https://arxiv.org/abs/2310.07702) [[Code]](https://yingqinghe.github.io/scalecrafter/)
++ **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** (19 Mar 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
+[![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
+
++ **`ECCV‘24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10491)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guolanqing.github.io/Self-Cascade/)
+[![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
++ **`CVPR‘24` DemoFusion: Democratising High-Resolution Image Generation With No $$$** (15 Dec 2023)<details><summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, et al.</summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07702)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ruoyidu.github.io/demofusion/demofusion.html)
+[![Code](https://img.shields.io/github/stars/PRIS-CV/DemoFusion.svg?style=social&label=Star)](https://github.com/PRIS-CV/DemoFusion)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/lucataco/demofusion)
+
+
++ **`CVPR‘24` Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11497)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenyangsi.top/FreeU/)
+[![Code](https://img.shields.io/github/stars/ChenyangSi/FreeU.svg?style=social&label=Star)](https://github.com/ChenyangSi/FreeU)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/ChenyangSi/FreeU)
+
++ **`ICLR‘24` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models** (11 Oct 2023)<details><summary> Yingqing He, Shaoshu Yang, Haoxin Chen, et al.</summary> Yingqing He, Shaoshu Yang, Haoxin Chen, Xiaodong Cun, Menghan Xia, Yong Zhang, Xintao Wang, Ran He, Qifeng Chen, Ying Shan</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07702)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yingqinghe.github.io/scalecrafter/)
+[![Code](https://img.shields.io/github/stars/YingqingHe/ScaleCrafter.svg?style=social&label=Star)](https://github.com/YingqingHe/ScaleCrafter)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/cjwbw/scalecrafter)
+
+
++ **`NeurIPS’23` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis** (26 Oct 2023)<details><summary>Zhiyu Jin, Xuli Shen, Bin Li, et al.</summary> Zhiyu Jin, Xuli Shen, Bin Li, Xiangyang Xue</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08645)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=166b8c2ee52794c46615c5c52d0390d896b79794)](https://www.semanticscholar.org/paper/Training-free-Diffusion-Model-Adaptation-for-Jin-Shen/166b8c2ee52794c46615c5c52d0390d896b79794)
+
+
++ **`ICML‘23` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** (16 Feb 2023)<details><summary>Omer Bar-Tal, Lior Yariv, Yaron Lipman, et al.</summary> Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.08113)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://multidiffusion.github.io)
+[![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
+
+
++ **HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models** (29 Nov 2023)<details><summary>Shen Zhang, Zhaowei Chen, Zhenyu Zhao, et al.</summary> Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17528)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hidiffusion.github.io)
+[![Code](https://img.shields.io/github/stars/megvii-research/HiDiffusion.svg?style=social&label=Star)](https://github.com/megvii-research/HiDiffusion)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
   
-* `Arxiv2023` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models [[Paper]](https://arxiv.org/abs/2311.17528)
-
-* `Arxiv2023` DemoFusion: Democratising High-Resolution Image Generation With No $$$ [[Paper]](https://arxiv.org/abs/2311.16973) [[Code]](https://github.com/PRIS-CV/DemoFusion) [[Webpage]](https://ruoyidu.github.io/demofusion/demofusion.html)
-
-* `CVPR2024 Oral` FreeU: Free Lunch in Diffusion U-Net [[Paper]](https://arxiv.org/abs/2309.11497) [[Code]](https://github.com/ChenyangSi/FreeU) [[Webpage]](https://chenyangsi.top/FreeU/)
-  
-* `Arxiv2024` FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis [[Paper]](https://arxiv.org/abs/2403.12963) [[Code]](https://github.com/LeonHLJ/FouriScale)
 
 ### Fine-Tuning Algorithm
 * `ICCV2023` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning [[Paper]](https://arxiv.org/abs/2304.06648)
