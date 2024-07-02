@@ -3,6 +3,21 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ## Papers and Codes
 
+- [📍 Image Generation](#-image-generation)
+  - [Tuning-Free Algorithm](#tuning-free-image)
+  - [Fine-Tuning Algorithm](#tuning-image)
+  - [Training from Scratch Algorithm](#training-from-scratch-image)
+  - [Super Resolution Algorithm](#super-resolution-image)
+  - [Datasets](#dataset-image)
+  - [Metrics](#metric-image)
+- [📍 Video Generation](#video-generation)
+  - [Tuning-Free Algorithm](#tuning-free-video)
+  - [Fine-Tuning Algorithm](#tuning-video)
+  - [Training from Scratch Algorithm](#training-from-scratch-video)
+  - [Super Resolution Algorithm](#super-resolution-video)
+  - [Datasets](#dataset-video)
+  - [Metrics](#metric-video)
+
 ### 🔅 Tuning-Free Algorithm
 
 + **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance** (24 June 2024)<details><summary>Shuwei Shi, Wenbo Li, Yuechen Zhang, et al.</summary> Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng</details></details>
@@ -10,6 +25,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/minedreamer/main)
 [![Code](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star)](https://github.com/Shuweis/ResMaster)
 
++ **DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance** (26 June 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18459)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yhyun225.github.io)
+[![Code](https://img.shields.io/github/stars/yhyun225/DiffuseHigh.svg?style=social&label=Star)](https://github.com/yhyun225/DiffuseHigh)
 
 + **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** (19 Mar 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
