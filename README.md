@@ -8,7 +8,6 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
   - [Fine-Tuning Algorithms](#-fine-tuning-algorithms)
   - [Training from Scratch Algorithms](#-training-from-scratch-algorithms)
   - [Super Resolution Algorithms](#-super-resolution-algorithms)
-  - [Datasets](#datasets)
   - [Metrics](#metrics)
 
 ### 🔅 Tuning-Free Algorithms
