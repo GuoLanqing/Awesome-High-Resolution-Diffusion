@@ -141,7 +141,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 **End-to-End Model**
 
 + **`ICML‘24` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers** (21 Jan 2024)<details><summary>Katherine Crowson, Stefan Andreas Baumann, Alex Birch, et al. </summary> Katherine Crowson, Stefan Andreas Baumann, Alex Birch, Tanishq Mathew Abraham, Daniel Z. Kaplan, Enrico Shippole</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12376)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.11605)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 [![Code](https://img.shields.io/github/stars/crowsonkb/k-diffusion.svg?style=social&label=Star)](https://github.com/crowsonkb/k-diffusion)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
@@ -152,7 +153,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 + **`ICLR‘24` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** (4 Jul 2023)<details><summary>Dustin Podell, Zion English, Kyle Lacey, et al. </summary> Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01952)
-[![Code](https://img.shields.io/github/stars/samb-t/infty-diff.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
+[![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 + **`ICLR‘24` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis** (2 Aug 2023)<details><summary>Zheng Ding, Mengqi Zhang, Jiajun Wu, et al. </summary> Zheng Ding, Mengqi Zhang, Jiajun Wu, Zhuowen Tu</details></details>
@@ -182,18 +183,34 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
   
 
-  
-* `Arxiv2024` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers [[Paper]](https://arxiv.org/abs/2401.11605) [[Code]](https://github.com/crowsonkb/k-diffusion) [[Webpage]](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+
+### 🔅 Super Resolution Algorithms
 
 
-### Super Resolution Algorithms
-* `Arxiv2023` [StableSR] Exploiting Diffusion Prior for Real-World Image Super-Resolution [[Paper]](https://arxiv.org/abs/2305.07015) [[Code]](https://github.com/IceClear/StableSR)
-  
-* `Arxiv2023` [PromptSR] Image Super-Resolution with Text Prompt Diffusion [[Paper]](https://arxiv.org/abs/2311.14282) [[Code]](https://github.com/zhengchen1999/PromptSR)
-  
-* `Arxiv2023` TIP: Text-Driven Image Processing with Semantic and Restoration Instructions [[Paper]](https://arxiv.org/abs/2312.11595)
-  
-* `CVPR2024` Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[Paper]](https://arxiv.org/abs/2401.13627) [[Code]](https://github.com/Fanghua-Yu/SUPIR) [[Webpage]](https://supir.xpixel.group/)
++ **[PromptSR] Image Super-Resolution with Text Prompt Diffusion** (24 Nov 2023)<details><summary>Zheng Chen, Yulun Zhang, Jinjin Gu, et al.</summary> Zheng Chen, Yulun Zhang, Jinjin Gu, Xin Yuan, Linghe Kong, Guihai Chen, Xiaokang Yang</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.07015)
+[![Code](https://img.shields.io/github/stars/zhengchen1999/PromptSR.svg?style=social&label=Star)](https://github.com/zhengchen1999/PromptSR)
+
+
++ **TIP: Text-Driven Image Processing with Semantic and Restoration Instructions** (18 Dec 2023)<details><summary>Chenyang Qi, Zhengzhong Tu, Keren Ye, et al.</summary> Chenyang Qi, Zhengzhong Tu, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Qifeng Chen, Hossein Talebi</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.07015)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenyangqiqi.github.io/tip/)
+
++ **`CVPR‘24` [SUPIR] Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild** (24 Jan 2024)<details><summary>Fanghua, Yu, Jinjin Gu, Zheyuan Li, et al.</summary> Fanghua, Yu, Jinjin Gu, Zheyuan Li, Jinfan Hu, Xiangtao Kong, Xintao Wang, Jingwen He, Yu Qiao, Chao Dong</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13627)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://supir.xpixel.group)
+[![Code](https://img.shields.io/github/stars/Fanghua-Yu/SUPIR.svg?style=social&label=Star)](https://github.com/Fanghua-Yu/SUPIR)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
+
++ **`IJCV‘24` [StableSR] Exploiting Diffusion Prior for Real-World Image Super-Resolution** (11 May 2023)<details><summary>Jianyi Wang, Zongsheng Yue, Shangchen Zhou, et al.</summary> Jianyi Wang, Zongsheng Yue, Shangchen Zhou, Kelvin C.K. Chan, Chen Change Loy</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.07015)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://iceclear.github.io/projects/stablesr/)
+[![Code](https://img.shields.io/github/stars/IceClear/StableSR.svg?style=social&label=Star)](https://github.com/IceClear/StableSR)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Iceclear/StableSR)
+
+
 
 
 ## Metrics
