@@ -40,7 +40,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/lucataco/demofusion)
 
 
-+ **`CVPR‘24` Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
++ **`CVPR‘24` FreeU: Free Lunch in Diffusion U-Net** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11497)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenyangsi.top/FreeU/)
 [![Code](https://img.shields.io/github/stars/ChenyangSi/FreeU.svg?style=social&label=Star)](https://github.com/ChenyangSi/FreeU)
@@ -199,6 +199,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13627)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://supir.xpixel.group)
 [![Code](https://img.shields.io/github/stars/Fanghua-Yu/SUPIR.svg?style=social&label=Star)](https://github.com/Fanghua-Yu/SUPIR)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
++ **`CVPR‘24` SinSR: Diffusion-Based Image Super-Resolution in a Single Step** (23 Nov 2023)<details><summary>Yufei Wang, Wenhan Yang, Xinyuan Chen, et al.</summary> Yufei Wang, Wenhan Yang, Xinyuan Chen, Yaohui Wang, Lanqing Guo, Lap-Pui Chau, Ziwei Liu, Yu Qiao, Alex C. Kot, Bihan Wen</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14760)
+[![Code](https://img.shields.io/github/stars/wyf0912/SinSR.svg?style=social&label=Star)](https://github.com/wyf0912/SinSR/)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 
