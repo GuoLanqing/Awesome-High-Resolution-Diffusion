@@ -26,13 +26,13 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
 [![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
 
-+ **`ECCV‘24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
++ **`ECCV'24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10491)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guolanqing.github.io/Self-Cascade/)
 [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`CVPR‘24` DemoFusion: Democratising High-Resolution Image Generation With No $$$** (15 Dec 2023)<details><summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, et al.</summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</details></details>
++ **`CVPR'24` DemoFusion: Democratising High-Resolution Image Generation With No $$$** (15 Dec 2023)<details><summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, et al.</summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07702)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ruoyidu.github.io/demofusion/demofusion.html)
 [![Code](https://img.shields.io/github/stars/PRIS-CV/DemoFusion.svg?style=social&label=Star)](https://github.com/PRIS-CV/DemoFusion)
@@ -40,14 +40,14 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/lucataco/demofusion)
 
 
-+ **`CVPR‘24` FreeU: Free Lunch in Diffusion U-Net** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
++ **`CVPR'24` FreeU: Free Lunch in Diffusion U-Net** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11497)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenyangsi.top/FreeU/)
 [![Code](https://img.shields.io/github/stars/ChenyangSi/FreeU.svg?style=social&label=Star)](https://github.com/ChenyangSi/FreeU)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/ChenyangSi/FreeU)
 
-+ **`ICLR‘24` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models** (11 Oct 2023)<details><summary> Yingqing He, Shaoshu Yang, Haoxin Chen, et al.</summary> Yingqing He, Shaoshu Yang, Haoxin Chen, Xiaodong Cun, Menghan Xia, Yong Zhang, Xintao Wang, Ran He, Qifeng Chen, Ying Shan</details></details>
++ **`ICLR'24` ScaleCrafter: Tuning-Free Higher-Resolution Visual Generation with Diffusion Models** (11 Oct 2023)<details><summary> Yingqing He, Shaoshu Yang, Haoxin Chen, et al.</summary> Yingqing He, Shaoshu Yang, Haoxin Chen, Xiaodong Cun, Menghan Xia, Yong Zhang, Xintao Wang, Ran He, Qifeng Chen, Ying Shan</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.07702)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yingqinghe.github.io/scalecrafter/)
 [![Code](https://img.shields.io/github/stars/YingqingHe/ScaleCrafter.svg?style=social&label=Star)](https://github.com/YingqingHe/ScaleCrafter)
@@ -55,12 +55,12 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/cjwbw/scalecrafter)
 
 
-+ **`NeurIPS’23` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis** (26 Oct 2023)<details><summary>Zhiyu Jin, Xuli Shen, Bin Li, et al.</summary> Zhiyu Jin, Xuli Shen, Bin Li, Xiangyang Xue</details></details>
++ **`NeurIPS'23` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis** (26 Oct 2023)<details><summary>Zhiyu Jin, Xuli Shen, Bin Li, et al.</summary> Zhiyu Jin, Xuli Shen, Bin Li, Xiangyang Xue</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08645)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=166b8c2ee52794c46615c5c52d0390d896b79794)](https://www.semanticscholar.org/paper/Training-free-Diffusion-Model-Adaptation-for-Jin-Shen/166b8c2ee52794c46615c5c52d0390d896b79794)
 
 
-+ **`ICML‘23` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** (16 Feb 2023)<details><summary>Omer Bar-Tal, Lior Yariv, Yaron Lipman, et al.</summary> Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel</details></details>
++ **`ICML'23` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** (16 Feb 2023)<details><summary>Omer Bar-Tal, Lior Yariv, Yaron Lipman, et al.</summary> Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.08113)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://multidiffusion.github.io)
 [![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
@@ -79,13 +79,13 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 
 
-+ **`ECCV‘24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
++ **`ECCV'24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10491)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guolanqing.github.io/Self-Cascade/)
 [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICLR‘24` PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
++ **`ICLR'24` PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pixart-alpha.github.io)
 [![Code](https://img.shields.io/github/stars/PixArt-alpha/PixArt-alpha.svg?style=social&label=Star)](https://github.com/PixArt-alpha/PixArt-alpha)
@@ -93,13 +93,13 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
 
 
-+ **`ICCV‘23` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
++ **`ICCV'23` DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06648)
 [![Code](https://img.shields.io/github/stars/mkshing/DiffFit-pytorch.svg?style=social&label=Star)](https://github.com/mkshing/DiffFit-pytorch)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 
-+ **`AAAI‘24` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** (31 Aug 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Qingping Zheng, Yuanfan Guo, Jiankang Deng, Jianhua Han, Ying Li, Songcen Xu, Hang Xu</details></details>
++ **`AAAI'24` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** (31 Aug 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Qingping Zheng, Yuanfan Guo, Jiankang Deng, Jianhua Han, Ying Li, Songcen Xu, Hang Xu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.16582)
 [![Code](https://img.shields.io/github/stars/ProAirVerse/Any-Size-Diffusion.svg?style=social&label=Star)](https://github.com/ProAirVerse/Any-Size-Diffusion)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
@@ -129,7 +129,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Code](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Star)](https://github.com/Vchitect/LaVie)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha](https://replicate.com/cjwbw/lavie))
 
-+ **`JMLR‘22` [CDM] Cascaded Diffusion Models for High Fidelity Image Generation** (30 May 2021)<details><summary>Jonathan Ho, Chitwan Saharia, William Chan, et al.</summary> Jonathan Ho, Chitwan Saharia, William Chan, David J. Fleet, Mohammad Norouzi, Tim Salimans</details></details>
++ **`JMLR'22` [CDM] Cascaded Diffusion Models for High Fidelity Image Generation** (30 May 2021)<details><summary>Jonathan Ho, Chitwan Saharia, William Chan, et al.</summary> Jonathan Ho, Chitwan Saharia, William Chan, David J. Fleet, Mohammad Norouzi, Tim Salimans</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.15282)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cascaded-diffusion.github.io/)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
@@ -139,32 +139,32 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 **End-to-End Model**
 
-+ **`ICML‘24` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers** (21 Jan 2024)<details><summary>Katherine Crowson, Stefan Andreas Baumann, Alex Birch, et al. </summary> Katherine Crowson, Stefan Andreas Baumann, Alex Birch, Tanishq Mathew Abraham, Daniel Z. Kaplan, Enrico Shippole</details></details>
++ **`ICML'24` Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers** (21 Jan 2024)<details><summary>Katherine Crowson, Stefan Andreas Baumann, Alex Birch, et al. </summary> Katherine Crowson, Stefan Andreas Baumann, Alex Birch, Tanishq Mathew Abraham, Daniel Z. Kaplan, Enrico Shippole</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.11605)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 [![Code](https://img.shields.io/github/stars/crowsonkb/k-diffusion.svg?style=social&label=Star)](https://github.com/crowsonkb/k-diffusion)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICML‘24` FiT: Flexible Vision Transformer for Diffusion Model** (19 Feb 2024)<details><summary>Zeyu Lu, Zidong Wang, Di Huang, et al. </summary> Zeyu Lu, Zidong Wang, Di Huang, Chengyue Wu, Xihui Liu, Wanli Ouyang, Lei Bai</details></details>
++ **`ICML'24` FiT: Flexible Vision Transformer for Diffusion Model** (19 Feb 2024)<details><summary>Zeyu Lu, Zidong Wang, Di Huang, et al. </summary> Zeyu Lu, Zidong Wang, Di Huang, Chengyue Wu, Xihui Liu, Wanli Ouyang, Lei Bai</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.12376)
 [![Code](https://img.shields.io/github/stars/whlzy/FiT.svg?style=social&label=Star)](https://github.com/whlzy/FiT)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICLR‘24` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** (4 Jul 2023)<details><summary>Dustin Podell, Zion English, Kyle Lacey, et al. </summary> Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach</details></details>
++ **`ICLR'24` SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis** (4 Jul 2023)<details><summary>Dustin Podell, Zion English, Kyle Lacey, et al. </summary> Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.01952)
 [![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star)](https://github.com/Stability-AI/generative-models)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICLR‘24` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis** (2 Aug 2023)<details><summary>Zheng Ding, Mengqi Zhang, Jiajun Wu, et al. </summary> Zheng Ding, Mengqi Zhang, Jiajun Wu, Zhuowen Tu</details></details>
++ **`ICLR'24` [Patch-DM] Patched Denoising Diffusion Models For High-Resolution Image Synthesis** (2 Aug 2023)<details><summary>Zheng Ding, Mengqi Zhang, Jiajun Wu, et al. </summary> Zheng Ding, Mengqi Zhang, Jiajun Wu, Zhuowen Tu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.01316)
 [![Code](https://img.shields.io/github/stars/mlpc-ucsd/Patch-DM.svg?style=social&label=Star)](https://github.com/mlpc-ucsd/Patch-DM)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICLR‘24` Matryoshka Diffusion Models** (23 Oct 2023)<details><summary>Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, et al. </summary>Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Josh Susskind, Navdeep Jaitly</details></details>
++ **`ICLR'24` Matryoshka Diffusion Models** (23 Oct 2023)<details><summary>Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, et al. </summary>Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Josh Susskind, Navdeep Jaitly</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15111)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`ICLR‘24` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States** (31 Mar 2023)<details><summary>Sam Bond-Taylor, Chris G. Willcocks</summary> Sam Bond-Taylor, Chris G. Willcocks</details></details>
++ **`ICLR'24` ∞-Diff: Infinite Resolution Diffusion with Subsampled Mollified States** (31 Mar 2023)<details><summary>Sam Bond-Taylor, Chris G. Willcocks</summary> Sam Bond-Taylor, Chris G. Willcocks</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.18242)
 [![Code](https://img.shields.io/github/stars/samb-t/infty-diff.svg?style=social&label=Star)](https://github.com/samb-t/infty-diff)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
@@ -174,7 +174,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 
-+ **`ICML‘23` Simple diffusion: End-to-end diffusion for high resolution images** (26 Jan 2023)<details><summary>Emiel Hoogeboom, Jonathan Heek, et al.</summary> Emiel Hoogeboom, Jonathan Heek, Tim Salimans</details></details>
++ **`ICML'23` Simple diffusion: End-to-end diffusion for high resolution images** (26 Jan 2023)<details><summary>Emiel Hoogeboom, Jonathan Heek, et al.</summary> Emiel Hoogeboom, Jonathan Heek, Tim Salimans</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11093)
 [![Code](https://img.shields.io/github/stars/patil-suraj/simple-diffusion.svg?style=social&label=Star)](https://github.com/patil-suraj/simple-diffusion)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
@@ -195,19 +195,19 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.07015)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenyangqiqi.github.io/tip/)
 
-+ **`CVPR‘24` [SUPIR] Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild** (24 Jan 2024)<details><summary>Fanghua, Yu, Jinjin Gu, Zheyuan Li, et al.</summary> Fanghua, Yu, Jinjin Gu, Zheyuan Li, Jinfan Hu, Xiangtao Kong, Xintao Wang, Jingwen He, Yu Qiao, Chao Dong</details></details>
++ **`CVPR'24` [SUPIR] Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild** (24 Jan 2024)<details><summary>Fanghua, Yu, Jinjin Gu, Zheyuan Li, et al.</summary> Fanghua, Yu, Jinjin Gu, Zheyuan Li, Jinfan Hu, Xiangtao Kong, Xintao Wang, Jingwen He, Yu Qiao, Chao Dong</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13627)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://supir.xpixel.group)
 [![Code](https://img.shields.io/github/stars/Fanghua-Yu/SUPIR.svg?style=social&label=Star)](https://github.com/Fanghua-Yu/SUPIR)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
-+ **`CVPR‘24` SinSR: Diffusion-Based Image Super-Resolution in a Single Step** (23 Nov 2023)<details><summary>Yufei Wang, Wenhan Yang, Xinyuan Chen, et al.</summary> Yufei Wang, Wenhan Yang, Xinyuan Chen, Yaohui Wang, Lanqing Guo, Lap-Pui Chau, Ziwei Liu, Yu Qiao, Alex C. Kot, Bihan Wen</details></details>
++ **`CVPR'24` SinSR: Diffusion-Based Image Super-Resolution in a Single Step** (23 Nov 2023)<details><summary>Yufei Wang, Wenhan Yang, Xinyuan Chen, et al.</summary> Yufei Wang, Wenhan Yang, Xinyuan Chen, Yaohui Wang, Lanqing Guo, Lap-Pui Chau, Ziwei Liu, Yu Qiao, Alex C. Kot, Bihan Wen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14760)
 [![Code](https://img.shields.io/github/stars/wyf0912/SinSR.svg?style=social&label=Star)](https://github.com/wyf0912/SinSR/)
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 
-+ **`IJCV‘24` [StableSR] Exploiting Diffusion Prior for Real-World Image Super-Resolution** (11 May 2023)<details><summary>Jianyi Wang, Zongsheng Yue, Shangchen Zhou, et al.</summary> Jianyi Wang, Zongsheng Yue, Shangchen Zhou, Kelvin C.K. Chan, Chen Change Loy</details></details>
++ **`IJCV'24` [StableSR] Exploiting Diffusion Prior for Real-World Image Super-Resolution** (11 May 2023)<details><summary>Jianyi Wang, Zongsheng Yue, Shangchen Zhou, et al.</summary> Jianyi Wang, Zongsheng Yue, Shangchen Zhou, Kelvin C.K. Chan, Chen Change Loy</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.07015)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://iceclear.github.io/projects/stablesr/)
 [![Code](https://img.shields.io/github/stars/IceClear/StableSR.svg?style=social&label=Star)](https://github.com/IceClear/StableSR)
