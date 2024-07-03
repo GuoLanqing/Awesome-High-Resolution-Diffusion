@@ -16,6 +16,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16476)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sites.google.com/view/minedreamer/main)
 [![Code](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star)](https://github.com/Shuweis/ResMaster)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fefa1647594b236361610a20d507127f0586a379b%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Diffusion-Models-in-Vision%3A-A-Survey-Croitoru-Hondru/efa1647594b236361610a20d507127f0586a379b)
+
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3ce9ba3fcec362b70263a7ed63d9404975496a0%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ResMaster%3A-Mastering-High-Resolution-Image-via-and-Shi-Li/e96072f23c2b929dee4a6267aef2d38ee43a8546?utm_source=direct_link)
+
 
 + **DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance** (26 June 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18459)
