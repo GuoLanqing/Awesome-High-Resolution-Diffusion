@@ -26,6 +26,12 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
 [![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
 
++ **`ECCV'24` BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** (6 Apr 2024)<details><summary> Gwanghyun Kim, Hayeon Kim, Hoigi Seo, et al.</summary> Gwanghyun Kim, Hayeon Kim, Hoigi Seo, Dong Un Kang, Se Young Chun</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.04544)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://janeyeon.github.io/beyond-scene/)
+[![Code](https://img.shields.io/github/stars/BeyondScene/BeyondScene.svg?style=social&label=Star)](https://github.com/BeyondScene/BeyondScene)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
+
 + **`ECCV'24` Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** (16 Feb 2024)<details><summary> Lanqing Guo, Yingqing He, Haoxin Chen, et al.</summary> Lanqing Guo, Yingqing He, Haoxin Chen, Menghan Xia, Xiaodong Cun, Yufei Wang, Siyu Huang, Yong Zhang, Xintao Wang, Qifeng Chen, Ying Shan, Bihan Wen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10491)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guolanqing.github.io/Self-Cascade/)
@@ -39,6 +45,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://replicate.com/lucataco/demofusion)
 
++ **`CVPR'24` Generative Powers of Ten** (4 Dec 2024)<details><summary> Xiaojuan Wang, Janne Kontkanen, Brian Curless, et al.</summary> Xiaojuan Wang, Janne Kontkanen, Brian Curless, Steve Seitz, Ira Kemelmacher, Ben Mildenhall, Pratul Srinivasan, Dor Verbin, Aleksander Holynski</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.02149)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://powers-of-10.github.io)
+[![citation](https://img.shields.io/badge/citation-1-blue.svg?paper=9ced6e814457eae83f5415364e266143defc81d1)](https://www.semanticscholar.org/paper/MultiDiffusion%3A-Fusing-Diffusion-Paths-for-Image-Bar-Tal-Yariv/9ced6e814457eae83f5415364e266143defc81d1)
 
 + **`CVPR'24` FreeU: Free Lunch in Diffusion U-Net** (20 Sep 2023)<details><summary> Chenyang Si, Ziqi Huang, Yuming Jiang, et al.</summary> Chenyang Si, Ziqi Huang, Yuming Jiang, Ziwei Liu</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11497)
