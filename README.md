@@ -27,6 +27,13 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12963-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
 [![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
 
++ **`ECCV'24` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models** (29 Nov 2023)<details><summary>Shen Zhang, Zhaowei Chen, Zhenyu Zhao, et al.</summary> Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2311.17528-b31b1b.svg)](https://arxiv.org/abs/2311.17528)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://hidiffusion.github.io)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
+[![Code](https://img.shields.io/github/stars/megvii-research/HiDiffusion.svg?style=social&label=Star)](https://github.com/megvii-research/HiDiffusion)
+  
+
 + **`ECCV'24` BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** (6 Apr 2024)<details><summary> Gwanghyun Kim, Hayeon Kim, Hoigi Seo, et al.</summary> Gwanghyun Kim, Hayeon Kim, Hoigi Seo, Dong Un Kang, Se Young Chun</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2404.04544-b31b1b.svg)](https://arxiv.org/abs/2404.04544)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://janeyeon.github.io/beyond-scene/)
@@ -71,12 +78,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
 
 
-+ **HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models** (29 Nov 2023)<details><summary>Shen Zhang, Zhaowei Chen, Zhenyu Zhao, et al.</summary> Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang</details></details>
-[![arXiv](https://img.shields.io/badge/arXiv-2311.17528-b31b1b.svg)](https://arxiv.org/abs/2311.17528)
-[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://hidiffusion.github.io)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
-[![Code](https://img.shields.io/github/stars/megvii-research/HiDiffusion.svg?style=social&label=Star)](https://github.com/megvii-research/HiDiffusion)
-  
+
 
 ### 🔅 Fine-Tuning Algorithms
 
