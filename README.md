@@ -11,6 +11,10 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
   - [Metrics](#metrics)
 
 ### 🔅 Tuning-Free Algorithms
++ **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks** (2 July 2024)<details><summary>Jingjing Ren, Wenbo Li, Haoyu Chen, et al.</summary>Jingjing Ren, Wenbo Li, Haoyu Chen, Renjing Pei, Bin Shao, Yong Guo, Long Peng, Fenglong Song, Lei Zhu</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2407.02158-b31b1b.svg)](https://arxiv.org/abs/2407.02158)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jingjingrenabc.github.io/ultrapixel/)
+
 
 + **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance** (24 June 2024)<details><summary>Shuwei Shi, Wenbo Li, Yuechen Zhang, et al.</summary> Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2406.16476-b31b1b.svg)](https://arxiv.org/abs/2406.16476)
