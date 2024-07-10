@@ -19,7 +19,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 
 + **DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance** (26 June 2024)<details><summary> Younghyun Kim, Geunmin Hwang, Eunbyung Park</summary> Younghyun Kim, Geunmin Hwang, Eunbyung Park</details></details>
-[![arXiv](https://img.shields.io/badge/arXiv-2406.18459-b31b1b.svg)](https://arxiv.org/abs/22406.18459)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.18459-b31b1b.svg)](https://arxiv.org/abs/2406.18459)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://yhyun225.github.io/DiffuseHigh/)
 [![Code](https://img.shields.io/github/stars/yhyun225/DiffuseHigh.svg?style=social&label=Star)](https://github.com/yhyun225/DiffuseHigh)
 
