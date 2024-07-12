@@ -14,9 +14,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 + **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance** (24 June 2024)<details><summary>Shuwei Shi, Wenbo Li, Yuechen Zhang, et al.</summary> Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2406.16476-b31b1b.svg)](https://arxiv.org/abs/2406.16476)
-[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://sites.google.com/view/minedreamer/main)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://shuweis.github.io/ResMaster/)
 [![Code](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star)](https://github.com/Shuweis/ResMaster)
-
 
 + **DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance** (26 June 2024)<details><summary> Younghyun Kim, Geunmin Hwang, Eunbyung Park</summary> Younghyun Kim, Geunmin Hwang, Eunbyung Park</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2406.18459-b31b1b.svg)](https://arxiv.org/abs/2406.18459)
