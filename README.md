@@ -26,7 +26,12 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12963-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
 [![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
 
-+ **`ECCV'24` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models** (29 Nov 2023)<details><summary>Shen Zhang, Zhaowei Chen, Zhenyu Zhao, et al.</summary> Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang</details></details>
++ **`ECCV'24` AccDiffusion: An Accurate Method for Higher-Resolution Image Generation** (18 July 2024)  <details><summary>Shen Zhang, Zhaowei Chen, Zhenyu Zhao, et al.</summary> Shen Zhang, Zhaowei Chen, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2407.10738-b31b1b.svg)](https://arxiv.org/abs/2407.10738)
+[![Project Page](https://lzhxmu.github.io/accdiffusion/accdiffusion.html)
+
+
++ **`ECCV'24` HiDiffusion: Unlocking High-Resolution Creativity and Efficiency in Low-Resolution Trained Diffusion Models** (29 Nov 2023)<details><summary>Zhihang Lin, Mingbao Lin, Meng Zhao, et al.</summary>Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2311.17528-b31b1b.svg)](https://arxiv.org/abs/2311.17528)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://hidiffusion.github.io)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://colab.research.google.com/drive/1EiBn9lSnPZTU4cikRRaBBexs429M-qty?usp=drive_link)
