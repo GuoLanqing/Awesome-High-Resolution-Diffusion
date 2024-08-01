@@ -55,6 +55,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://guolanqing.github.io/Self-Cascade/)
 [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
 
++ **`ICML'24` Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs** (22 Jan 2024)<details><summary>Ling Yang, Zhaochen Yu, Chenlin Meng et al.</summary> Ling Yang, Zhaochen Yu, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2311.16973-b31b1b.svg)](https://arxiv.org/abs/2311.16973)
+[![Code](https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster.svg?style=social&label=Star)](https://github.com/YangLing0818/RPG-DiffusionMaster)
+
+
 + **`CVPR'24` DemoFusion: Democratising High-Resolution Image Generation With No $$$** (24 Nov 2023)<details><summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, et al.</summary> Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2311.16973-b31b1b.svg)](https://arxiv.org/abs/2311.16973)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://ruoyidu.github.io/demofusion/demofusion.html)
