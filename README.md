@@ -107,6 +107,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://guolanqing.github.io/Self-Cascade/)
 [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade/)
 
+
++ **`CVPR'24` Image Neural Field Diffusion Models** (11 Jun 2024)<details><summary> Yinbo Chen, Oliver Wang, Richard Zhang, et al.</summary> Yinbo Chen, Oliver Wang, Richard Zhang, Eli Shechtman, Xiaolong Wang, Michael Gharbi</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2406.07480-b31b1b.svg)](https://arxiv.org/abs/2406.07480)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://yinboc.github.io/infd/)
+
 + **`ICLR'24` PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis** (13 Apr 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2310.00426-b31b1b.svg)](https://arxiv.org/abs/2310.00426)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://pixart-alpha.github.io)
