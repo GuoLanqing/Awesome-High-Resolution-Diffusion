@@ -12,6 +12,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### 🔅 Tuning-Free Algorithms
 
++ **MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning** (20 Aug 2024)<details><summary>Haoning Wu, Shaocheng Shen, Qiang Hu, et al.</summary> Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2408.11001-b31b1b.svg)](https://arxiv.org/abs/2408.11001)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://haoningwu3639.github.io/MegaFusion/)
+[![Code](https://img.shields.io/github/stars/ShaochengShen/MegaFusion.svg?style=social&label=Star)](https://github.com/ShaochengShen/MegaFusion/)
+
 + **ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance** (24 June 2024)<details><summary>Shuwei Shi, Wenbo Li, Yuechen Zhang, et al.</summary> Shuwei Shi, Wenbo Li, Yuechen Zhang, Jingwen He, Biao Gong, Yinqiang Zheng</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2406.16476-b31b1b.svg)](https://arxiv.org/abs/2406.16476)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://shuweis.github.io/ResMaster/)
