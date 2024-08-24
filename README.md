@@ -95,13 +95,14 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![arXiv](https://img.shields.io/badge/arXiv-2306.05178-b31b1b.svg)](https://arxiv.org/abs/2306.05178)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://multidiffusion.github.io)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/KAIST-Visual-AI-Group/syncdiffusion-demo)
-[![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
+[![Code](https://img.shields.io/github/stars/KAIST-Visual-AI-Group/SyncDiffusion.svg?style=social&label=Star)](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)
+
 
 + **`ICML'23` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** (16 Feb 2023)<details><summary>Omer Bar-Tal, Lior Yariv, Yaron Lipman, et al.</summary> Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2302.08113-b31b1b.svg)](https://arxiv.org/abs/2302.08113)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://syncdiffusion.github.io)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
-[![Code](https://img.shields.io/github/stars/KAIST-Visual-AI-Group/SyncDiffusion.svg?style=social&label=Star)](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)
+[![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
 
 
 
