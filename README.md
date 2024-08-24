@@ -91,12 +91,17 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 + **`NeurIPS'23` Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis** (26 Oct 2023)<details><summary>Zhiyu Jin, Xuli Shen, Bin Li, et al.</summary> Zhiyu Jin, Xuli Shen, Bin Li, Xiangyang Xue</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2306.08645-b31b1b.svg)](https://arxiv.org/abs/2306.08645)
 
++ **`NeurIPS'23` SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions** (8 Jun 2023)<details><summary>Yuseung Lee, Kunho Kim, Hyunjin Kim, et al.</summary> Yuseung Lee, Kunho Kim, Hyunjin Kim, Minhyuk Sung</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2306.05178-b31b1b.svg)](https://arxiv.org/abs/2306.05178)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://multidiffusion.github.io)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/KAIST-Visual-AI-Group/syncdiffusion-demo)
+[![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
 
 + **`ICML'23` MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** (16 Feb 2023)<details><summary>Omer Bar-Tal, Lior Yariv, Yaron Lipman, et al.</summary> Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2302.08113-b31b1b.svg)](https://arxiv.org/abs/2302.08113)
-[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://multidiffusion.github.io)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://syncdiffusion.github.io)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
-[![Code](https://img.shields.io/github/stars/omerbt/MultiDiffusion.svg?style=social&label=Star)](https://github.com/omerbt/MultiDiffusion)
+[![Code](https://img.shields.io/github/stars/KAIST-Visual-AI-Group/SyncDiffusion.svg?style=social&label=Star)](https://github.com/KAIST-Visual-AI-Group/SyncDiffusion)
 
 
 
