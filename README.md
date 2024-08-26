@@ -27,7 +27,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://yhyun225.github.io/DiffuseHigh/)
 [![Code](https://img.shields.io/github/stars/yhyun225/DiffuseHigh.svg?style=social&label=Star)](https://github.com/yhyun225/DiffuseHigh)
 
-+ **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** (19 Mar 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
++ **`ECCV'24` FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** (19 Mar 2024)<details><summary>Linjiang Huang, Rongyao Fang, Aiping Zhang, et al.</summary> Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12963-b31b1b.svg)](https://arxiv.org/abs/2403.12963)
 [![Code](https://img.shields.io/github/stars/LeonHLJ/FouriScale.svg?style=social&label=Star)](https://github.com/LeonHLJ/FouriScale)
 
