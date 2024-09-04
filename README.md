@@ -109,6 +109,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### 🔅 Fine-Tuning Algorithms
 
++ **LINFUSION: 1 GPU, 1 MINUTE, 16K IMAGE** (3 Sep 2024)<details><summary>Songhua Liu, Weihao Yu, Zhenxiong Tan, et al.</summary>Songhua Liu, Weihao Yu, Zhenxiong Tan, and Xinchao Wang</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2409.02097-b31b1b.svg)](https://arxiv.org/abs/2409.02097)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://lv-linfusion.github.io)
+[![Code](https://img.shields.io/github/stars/Huage001/LinFusion.svg?style=social&label=Star)](https://github.com/Huage001/LinFusion/)
+
 + **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks** (2 July 2024)<details><summary>Jingjing Ren, Wenbo Li, Haoyu Chen, et al.</summary>Jingjing Ren, Wenbo Li, Haoyu Chen, Renjing Pei, Bin Shao, Yong Guo, Long Peng, Fenglong Song, Lei Zhu</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2407.02158-b31b1b.svg)](https://arxiv.org/abs/2407.02158)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://jingjingrenabc.github.io/ultrapixel/)
