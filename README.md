@@ -12,7 +12,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### 🔅 Tuning-Free Algorithms
 
-+ **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**  (20 Aug 2024)<details><summary>Xinyu Liu, Yingqing He, Lanqing Guo, et al.</summary> Xinyu Liu, Yingqing He, Lanqing Guo, Xiang Li, Bu Jin, Peng Li, Yan Li, Chi-Min Chan, Qifeng Chen, Wei Xue, Wenhan Luo, Qifeng Liu, Yike Guo</details></details>
++ **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**  (9 Sep 2024)<details><summary>Xinyu Liu, Yingqing He, Lanqing Guo, et al.</summary> Xinyu Liu, Yingqing He, Lanqing Guo, Xiang Li, Bu Jin, Peng Li, Yan Li, Chi-Min Chan, Qifeng Chen, Wei Xue, Wenhan Luo, Qifeng Liu, Yike Guo</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2409.02919-b31b1b.svg)](https://arxiv.org/abs/2409.02919)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://liuxinyv.github.io/HiPrompt/)
 [![Code](https://img.shields.io/github/stars/Liuxinyv/HiPrompt.svg?style=social&label=Star)](https://github.com/Liuxinyv/HiPrompt)
