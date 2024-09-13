@@ -12,6 +12,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### 🔅 Tuning-Free Algorithms
 
++ **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**  (20 Aug 2024)<details><summary>Xinyu Liu, Yingqing He, Lanqing Guo, et al.</summary> Xinyu Liu, Yingqing He, Lanqing Guo, Xiang Li, Bu Jin, Peng Li, Yan Li, Chi-Min Chan, Qifeng Chen, Wei Xue, Wenhan Luo, Qifeng Liu, Yike Guo</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2409.02919-b31b1b.svg)](https://arxiv.org/abs/2409.02919)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://liuxinyv.github.io/HiPrompt/)
+[![Code](https://img.shields.io/github/stars/Liuxinyv/HiPrompt.svg?style=social&label=Star)](https://github.com/Liuxinyv/HiPrompt)
+
 + **MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning** (20 Aug 2024)<details><summary>Haoning Wu, Shaocheng Shen, Qiang Hu, et al.</summary> Haoning Wu, Shaocheng Shen, Qiang Hu, Xiaoyun Zhang, Ya Zhang, Yanfeng Wang</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2408.11001-b31b1b.svg)](https://arxiv.org/abs/2408.11001)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://haoningwu3639.github.io/MegaFusion/)
