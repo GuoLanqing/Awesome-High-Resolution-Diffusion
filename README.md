@@ -183,7 +183,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 **End-to-End Model**
 
-+ **`arxiv'24` SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers** (21 Jan 2024)<details><summary>Enze Xie, Junsong Chen, Junyu Chen, et al. </summary> Enze Xie, Junsong Chen, Junyu Chen, Han Cai, Haotian Tang, Yujun Lin, Zhekai Zhang, Muyang Li, Ligeng Zhu, Yao Lu, Song Han</details></details>
++ **SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers** (14 Oct 2024)<details><summary>Enze Xie, Junsong Chen, Junyu Chen, et al. </summary> Enze Xie, Junsong Chen, Junyu Chen, Han Cai, Haotian Tang, Yujun Lin, Zhekai Zhang, Muyang Li, Ligeng Zhu, Yao Lu, Song Han</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2410.10629-b31b1b.svg)](https://arxiv.org/abs/2410.10629)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://nvlabs.github.io/Sana/)
 [![Code](https://img.shields.io/github/stars/NVlabs/Sana.svg?style=social&label=Star)](https://github.com/NVlabs/Sana)
