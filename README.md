@@ -12,6 +12,11 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 
 ### 🔅 Tuning-Free Algorithms
 
+
++ **I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**  (10 Oct 2024)<details><summary>Ruoyi Du, Dongyang Liu, Le Zhuo, et al.</summary> Ruoyi Du, Dongyang Liu, Le Zhuo, Qin Qi, Hongsheng Li, Zhanyu Ma, Peng Gao</details></details>
+[![arXiv](https://img.shields.io/badge/arXiv-2410.07536-b31b1b.svg)](https://arxiv.org/abs/2410.07536)
+[![Code](https://img.shields.io/github/stars/PRIS-CV/I-Max.svg?style=social&label=Star)](https://github.com/PRIS-CV/I-Max)
+
 + **HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**  (9 Sep 2024)<details><summary>Xinyu Liu, Yingqing He, Lanqing Guo, et al.</summary> Xinyu Liu, Yingqing He, Lanqing Guo, Xiang Li, Bu Jin, Peng Li, Yan Li, Chi-Min Chan, Qifeng Chen, Wei Xue, Wenhan Luo, Qifeng Liu, Yike Guo</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2409.02919-b31b1b.svg)](https://arxiv.org/abs/2409.02919)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://liuxinyv.github.io/HiPrompt/)
