@@ -150,7 +150,7 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 [![Code](https://img.shields.io/github/stars/mkshing/DiffFit-pytorch.svg?style=social&label=Star)](https://github.com/mkshing/DiffFit-pytorch)
 
 
-+ **`AAAI'24` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** (31 Aug 2023)<details><summary>Enze Xie, Lewei Yao, Han Shi, Zhili Liu, et al.</summary> Qingping Zheng, Yuanfan Guo, Jiankang Deng, Jianhua Han, Ying Li, Songcen Xu, Hang Xu</details></details>
++ **`AAAI'24` Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** (31 Aug 2023)<details><summary>Qingping Zheng, Yuanfan Guo, Jiankang Deng, et al.</summary> Qingping Zheng, Yuanfan Guo, Jiankang Deng, Jianhua Han, Ying Li, Songcen Xu, Hang Xu</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2308.16582-b31b1b.svg)](https://arxiv.org/abs/2308.16582)
 [![Code](https://img.shields.io/github/stars/ProAirVerse/Any-Size-Diffusion.svg?style=social&label=Star)](https://github.com/ProAirVerse/Any-Size-Diffusion)
 
