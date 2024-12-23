@@ -15,6 +15,8 @@ Collection of recent diffusion-based high-resolution (e.g., $>1024^2$) image and
 + **FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion**  (12 Dec 2024)<details><summary>Haonan Qiu, Shiwei Zhang, Yujie Wei, et al.</summary>Haonan Qiu, Shiwei Zhang, Yujie Wei, Ruihang Chu, Hangjie Yuan, Xiang Wang, Yingya Zhang, Ziwei Liu</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2412.09626-b31b1b.svg)](https://arxiv.org/abs/2412.09626)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](http://haonanqiu.com/projects/FreeScale.html)
+[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/MoonQiu/FreeScale)
+[![Code](https://img.shields.io/github/stars/Shuweis/ResMaster.svg?style=social&label=Star)](https://github.com/ali-vilab/FreeScale)
 
 + **I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow**  (10 Oct 2024)<details><summary>Ruoyi Du, Dongyang Liu, Le Zhuo, et al.</summary> Ruoyi Du, Dongyang Liu, Le Zhuo, Qin Qi, Hongsheng Li, Zhanyu Ma, Peng Gao</details></details>
 [![arXiv](https://img.shields.io/badge/arXiv-2410.07536-b31b1b.svg)](https://arxiv.org/abs/2410.07536)
